@@ -1,0 +1,26 @@
+title: LostBoysStudio
+description: Mobile Game Development Studio
+baseurl: ""
+url: "https://lostboysstudio.github.io"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Apps
+    url: /apps/
+  - title: Privacy Policy
+    url: /privacy/
+  - title: Contact
+    url: /contact/
+
+# Default layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default 
