@@ -57,8 +57,8 @@ Eggs and Bakey respects your privacy. All processing is done locally on your dev
 > Note: Continued use of background heart rate monitoring can decrease battery life.
 
 ## Download
-[App Store Link]
+(https://apps.apple.com/us/app/eggs-and-bakey/id6739503839)
 
 ## Support
 For any questions or support, please contact us at:
-contact@lostboysstudio.com 
+lostboysstudiollc@gmail.com
