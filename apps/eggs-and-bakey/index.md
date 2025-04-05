@@ -5,40 +5,60 @@ title: Eggs and Bakey
 
 # Eggs and Bakey
 
-A delightful cooking game where you help Bakey the baker prepare delicious egg-based recipes.
+Your personal alertness companion for Apple Watch, designed to help you stay awake when it matters most. Using advanced heart rate monitoring, the app detects early signs of drowsiness and alerts you before you doze off.
 
-## Features
+## Key Features
 
-- Fun and engaging cooking gameplay
-- Multiple egg-based recipes to master
-- Cute and colorful graphics
-- Family-friendly content
-- Rewarded ads for extra ingredients
-- Simple controls perfect for all ages
+### Smart Drowsiness Detection
+- Monitors your heart rate in real-time
+- Establishes your personal baseline
+- Detects early signs of fatigue
+- Provides timely alerts
 
-## Gameplay
+### Alerts
+- Audio notifications
+- Haptic feedback
+- Visual indicators
+- Adjustable sensitivity
 
-In Eggs and Bakey, you'll:
-- Help Bakey prepare various egg dishes
-- Follow recipes step by step
-- Collect ingredients and power-ups
-- Master timing and coordination
-- Unlock new recipes as you progress
+### Privacy Focused
+- All processing done on device
+- No data stored long-term
+- No cloud storage
+- No third-party sharing
 
-## Screenshots
+### Background Operation
+- Continuous monitoring
+- Audio alerts
+- Remote notifications
+- Mindfulness tracking
 
-[Add screenshots here]
+## Perfect For
+- Night shift work
+- Study sessions
+- Any situation requiring sustained alertness
+
+## How It Works
+1. Start the app on your Apple Watch
+2. Wait 15 seconds for baseline establishment
+3. Continue your activity while the app monitors your alertness
+4. Receive gentle alerts if signs of drowsiness are detected
+
+## Health & Safety
+Eggs and Bakey is designed as an aid and should not be relied upon as a primary safety system. Always follow proper safety protocols and take breaks when feeling tired.
+
+## Requirements
+- Apple Watch with heart rate sensor
+- watchOS 10.0 or later
+
+## Privacy
+Eggs and Bakey respects your privacy. All processing is done locally on your device with no data stored or shared.
+
+> Note: Continued use of background heart rate monitoring can decrease battery life.
 
 ## Download
-
 [App Store Link]
-[Google Play Link]
-
-## Privacy Policy
-
-[View Privacy Policy](/apps/eggs-and-bakey/privacy/)
 
 ## Support
-
 For any questions or support, please contact us at:
 contact@lostboysstudio.com 

@@ -13,9 +13,9 @@ We create fun and engaging mobile games and apps for iOS and Android.
 A challenging color sorting puzzle game where players organize colored liquids into bottles.
 [Learn More](/apps/bottle-puzzle/)
 
-### Stay Awake
+### Eggs and Bakey
 Your personal alertness companion for Apple Watch, designed to help you stay awake when it matters most.
-[Learn More](/apps/stay-awake/)
+[Learn More](/apps/eggs-and-bakey/)
 
 ## About Us
 

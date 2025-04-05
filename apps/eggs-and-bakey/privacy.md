@@ -9,53 +9,56 @@ Last updated: February 23, 2024
 
 ## Introduction
 
-Welcome to Eggs and Bakey! This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
+Welcome to Eggs and Bakey! This Privacy Policy explains how we handle your information when you use our Apple Watch application.
 
-## Information We Collect
+## Our Privacy Commitment
 
-### Information You Provide
-- Game progress and scores
-- Recipe completion data
-- Game settings and preferences
+Eggs and Bakey is built with privacy as a core principle. We believe in:
+- Processing all data locally on your device
+- Not storing any personal data
+- Not sharing any data with third parties
+- Not using cloud storage
 
-### Automatically Collected Information
-- Device information (device type, operating system)
-- Game performance data
-- Ad interaction data (through Google AdMob)
+## Information Processing
 
-## How We Use Your Information
+### Heart Rate Data
+- All heart rate monitoring is performed locally on your Apple Watch
+- No heart rate data is stored or transmitted
+- Data is processed in real-time and immediately discarded
+- No historical data is maintained
 
-We use the collected information to:
-- Provide and improve the game experience
-- Track game progress and achievements
-- Display personalized advertisements
-- Analyze game performance and user behavior
+### Alert Data
+- Alert preferences are stored locally on your device
+- Alert history is not maintained
+- No alert data is transmitted or shared
 
-## Advertising
+## Device Permissions
 
-Our app uses Google AdMob to display advertisements. AdMob may collect and process data as described in their privacy policy. For more information about AdMob's data collection and usage, please visit: [Google Privacy Policy](https://policies.google.com/privacy)
+Eggs and Bakey requires the following permissions:
+- Heart rate monitoring
+- Background app refresh
+- Notifications
 
-## Data Storage
+These permissions are used solely for the app's core functionality and are not used to collect or store personal data.
 
-- Game progress is stored locally on your device
-- We do not collect or store personal information
-- Ad-related data is handled by Google AdMob
+## Data Security
+
+- All processing occurs on your device
+- No data is transmitted over the internet
+- No data is stored in the cloud
+- No data is shared with third parties
 
 ## Children's Privacy
 
-Our app is suitable for all ages and does not knowingly collect personal information from children under 13. If you are a parent and discover that your child has provided us with personal information, please contact us.
-
-## Third-Party Services
-
-We use the following third-party services:
-- Google AdMob (for advertising)
+Our app is not specifically designed for children under 13, and we do not knowingly collect any personal information from children.
 
 ## Your Rights
 
 You have the right to:
-- Access your game data
-- Delete your game data
-- Opt-out of personalized advertising
+- Access any locally stored preferences
+- Delete any locally stored preferences
+- Control notification settings
+- Uninstall the app at any time
 
 ## Changes to This Policy
 
@@ -65,16 +68,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 contact@lostboysstudio.com
-
-## California Privacy Rights
-
-For California residents:
-- We do not sell your personal information
-- We do not share your personal information with third parties for direct marketing purposes
-
-## International Users
-
-By using our app, you consent to the transfer of your information to the United States and its processing in the United States.
 
 ## Consent
 
